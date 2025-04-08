@@ -1,7 +1,7 @@
 Hi there 👋
 
-name : park nam jin
+Name : Park Nam Jin
 
-hobby : game
+Hobby : Coding, Online Game, Climbing
 
-job : student
+Job : Undergraduate student
